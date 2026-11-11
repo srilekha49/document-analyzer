@@ -1,0 +1,65 @@
+SAMANTHA K. REED
+San Francisco, CA | (415) 555-3921 | samantha.reed.ai@gmail.com
+LinkedIn: linkedin.com/in/samanthareed-ml | GitHub: github.com/sreed-ai | Website: https://samanthareed.dev
+
+-----------------------------------------------------------------------------------------
+EXECUTIVE SUMMARY
+-----------------------------------------------------------------------------------------
+Lead Machine Learning Engineer with 7+ years of experience building, deploying, and optimizing
+generative AI pipelines, LLM fine-tuning, and low-latency computer vision systems in production.
+Proven track record architecting high-throughput inference serving platforms handling 2M+ daily requests.
+
+-----------------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+-----------------------------------------------------------------------------------------
+NeuralEdge Technologies — San Francisco, CA
+Lead Machine Learning Engineer                                            Apr 2021 – Present
+- Spearheaded multi-tenant RAG retrieval platform serving 2M daily queries, cutting hallucination rates by 42% through semantic hybrid reranking.
+- Optimized model inference latency from 220ms to 48ms using TensorRT-LLM and vLLM quantization on NVIDIA H100 clusters.
+- Directed cross-functional team of 8 ML engineers and data scientists delivering quarterly product releases.
+- Technologies: Python, PyTorch, vLLM, TensorRT, FastAPI, Ray, Triton Inference Server, AWS
+
+VisionStream Systems — Palo Alto, CA
+Senior AI Research Engineer                                               Aug 2017 – Mar 2021
+- Developed deep learning semantic segmentation models for real-time robotic perception achieving 94.6% mIoU at 60 FPS.
+- Authored 3 provisional patents on sparse attention mechanisms for high-resolution video streams.
+- Reduced edge device model footprint by 65% utilizing structured pruning and INT8 post-training quantization.
+- Technologies: Python, C++, PyTorch, CUDA, OpenCV, Docker, GCP
+
+-----------------------------------------------------------------------------------------
+EDUCATION
+-----------------------------------------------------------------------------------------
+Stanford University — Stanford, CA
+Master of Science in Computer Science (AI Specialization)                 2015 – 2017
+GPA: 3.91/4.00
+Honors: Graduate Research Fellowship, Best Paper Finalist CVPR Workshop
+
+University of California, Berkeley — Berkeley, CA
+Bachelor of Science in Electrical Engineering & Computer Science          2011 – 2015
+GPA: 3.88/4.00
+Honors: Summa Cum Laude, Eta Kappa Nu Electrical Engineering Honor Society
+
+-----------------------------------------------------------------------------------------
+TECHNICAL SKILLS
+-----------------------------------------------------------------------------------------
+- Programming Languages: Python, C++, SQL, CUDA, Bash
+- ML & Deep Learning Frameworks: PyTorch, Hugging Face, vLLM, TensorRT-LLM, LangChain, DeepSpeed
+- Cloud, Infrastructure & MLOps: AWS (SageMaker, EKS), GCP (Vertex AI), Docker, Kubernetes, Ray, Triton Server, MLflow
+- Databases & Vector Stores: Milvus, Pinecone, Qdrant, PostgreSQL (pgvector), Redis
+
+-----------------------------------------------------------------------------------------
+KEY PROJECTS
+-----------------------------------------------------------------------------------------
+Open-RAG-Benchmark | Creator & Lead Maintainer | github.com/sreed-ai/open-rag-benchmark
+- Open-source evaluation harness comparing 12 embedding models and rerankers across financial and legal document QA.
+- Tech Stack: Python, FastAPI, PostgreSQL, Streamlit
+
+-----------------------------------------------------------------------------------------
+CERTIFICATIONS & LICENSES
+-----------------------------------------------------------------------------------------
+- AWS Certified Machine Learning - Specialty (ID: AWS-MLS-882019, Valid: May 2022 – May 2025)
+
+-----------------------------------------------------------------------------------------
+LANGUAGES
+-----------------------------------------------------------------------------------------
+English (Native), Mandarin (Professional Working)

@@ -1,0 +1,53 @@
+======================================================================
+                        TAX INVOICE / BILL OF SALE
+======================================================================
+
+Apex Digital Infrastructure Corp.
+Reg. Office: Level 14, 500 Capitol Way, Suite 1420, Austin, TX 78701
+EIN / Federal Tax ID: 74-9821405
+Invoicing Dept: accounts-payable@apexdigital.tech | Direct: +1 (512) 555-0177
+Web: www.apexdigital.tech
+
+Document Reference: INV-2024-9982
+Dated: April 10, 2024
+Customer PO Reference: PO-GLOBAL-441
+Payment Terms: Net 30 days
+Due By: May 10, 2024
+
+RECIPIENT / BILL TO:
+Meridian Health Logistics Corp
+Attn: Marcus Vance (VP Logistics Operations)
+1200 Healthcare Drive, Bldg B
+Chicago, IL 60601
+Contact Email: m.vance@meridianhealth.com | Tel: +1 (312) 555-8921
+
+DELIVER TO / SHIP TO:
+1200 Healthcare Drive, Receiving Dock 3, Chicago, IL 60601
+
+-----------------------------------------------------------------------------------------------------------------
+ITEM / SKU     DESCRIPTION                                                  QTY     UNIT PRICE ($)     TOTAL ($)
+-----------------------------------------------------------------------------------------------------------------
+SAAS-ENT-01    Enterprise Analytics Platform License (Annual Seat x 20)      20         450.00         9,000.00
+CONS-IMP-02    Custom ETL Integration Consulting & Data Migration (Hours)    35         180.00         6,300.00
+SUP-PREM-03    24/7 Dedicated SLA Support Package                             1       1,200.00         1,200.00
+-----------------------------------------------------------------------------------------------------------------
+
+                                                ITEM SUBTOTAL:     $16,500.00
+                      Corporate Volume Discount (Spring Promotion):     -$500.00
+                                       State & Local Tax (8.00%):      $1,320.00
+                                            Shipping & Fulfillment:         $0.00
+                                                -------------------------
+                                                TOTAL AMOUNT PAYABLE:     $17,320.00
+                                                Currency: USD ($)
+
+REMITTANCE INSTRUCTIONS:
+Please wire funds directly or initiate ACH transfer to:
+Beneficiary Bank: Chase Commercial Banking
+Account Number: 8821940192
+Routing / ABA: 071000013
+Payment Status: Unpaid
+
+NOTES & POLICIES:
+Payment due within 30 days of invoice date. Late fees of 1.5% apply after May 10, 2024.
+For questions regarding this statement, contact billing@apexdigital.tech.
+======================================================================

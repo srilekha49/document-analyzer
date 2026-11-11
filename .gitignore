@@ -1,0 +1,24 @@
+# Environment variables
+.env
+*.env
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Output files generated during runs
+output/*.json
+!output/.gitkeep
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
